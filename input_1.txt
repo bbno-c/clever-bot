@@ -1,0 +1,30 @@
+﻿{"response":{"game_info":{"game":{"game_id":180,"status":"started","video_owner_id":-162894513,"video_id":456239317,"no_questions":false,"is_closed":false,"prize":50000,"question_number":12},"user":{"extra_lives":0,"balance":0,"coins":0,"invites_left":10000},"in_game":0,"lives_used":0,"rating_percent":99,"video_url":"https:\/\/cs1-77v4.vkuservideo.net\/p10\/a08192f1b0dc.480.mp4?extra=WhMGxh49wYyvmyBawd661qXl0NeKtYKz8I97gEfS_NiELT3CT56QR8FOqfWJ4wSJwwGy9ei1UYigZ4HIjvwO2nUuEhnk4-6oYGUsOFJ947dtnpMF6keY7Qyaj962KbpzCplihbF7LfbsGkk","custom_variables":{"android_exo_fraction":0.750000,"android_longpoll_timeout":6000,"ios_queue_timeout":25,"ios_queue_timeout_new":25},"is_coin_promo_enabled":true,"stats_disabled":false,"is_log_enabled":false,
+"question":
+{
+	"text":"В какой книге о Гарри Поттере лорд Волдеморт впервые появляется в физическом обличье?",
+	"answers":
+	[
+		{
+			"id":0,
+			"users_answered":0,
+			"text":"«Гарри Поттер и тайная комната»"
+		},
+		{
+			"id":1,
+			"users_answered":0,
+			"text":"«Гарри Поттер и кубок огня»"
+		},
+		{
+			"id":2,
+			"users_answered":0,
+			"text":"«Гарри Поттер и принц-полукровка»"
+		}
+	],
+	"stop_time":0,
+	"is_first":0,
+	"is_last":0,
+	"number":6,
+	"id":16,
+	"sent_time":1527009024
+},
+"last_answer":{"question_id":11,"answer_id":0}},"me":{"id":265757736,"first_name":"Олег","last_name":"Хорольский","photo_200":"https:\/\/pp.userapi.com\/c836520\/v836520254\/8067a\/LRD9O92O3WQ.jpg"},"train_mode":true,"server_time":1527009024,"leaderboard":{"leaderboard":[{"name":"Елена Я.","photo_url":"https:\/\/sun1-3.userapi.com\/c840730\/v840730754\/84aeb\/T5dQSmVjYfs.jpg","value":8298},{"name":"Витюня П.","photo_url":"https:\/\/pp.userapi.com\/c637820\/v637820585\/5ff3f\/rVwxEij9WfQ.jpg","value":5862},{"name":"Сергей Е.","photo_url":"https:\/\/pp.userapi.com\/c639525\/v639525580\/1bbd9\/PG9t8dYuxmk.jpg","value":5834},{"name":"Екатерина Ш.","photo_url":"https:\/\/pp.userapi.com\/c845123\/v845123450\/55c17\/feC40FOM2Kw.jpg","value":5681},{"name":"Сергей С.","photo_url":"https:\/\/pp.userapi.com\/c837539\/v837539795\/20c2c\/LMEh8hS9N4A.jpg","value":5555},{"name":"Искандер З.","photo_url":"https:\/\/pp.userapi.com\/c629307\/v629307201\/8760\/TikD5LdOxZs.jpg","value":5555},{"name":"Марина С.","photo_url":"https:\/\/pp.userapi.com\/c824204\/v824204540\/13a0f7\/FefwzpV6yxY.jpg","value":5555},{"name":"Юрий Б.","photo_url":"https:\/\/pp.userapi.com\/c408422\/v408422535\/9c5a\/GjjGza0swDc.jpg","value":5555},{"name":"Виталий Б.","photo_url":"https:\/\/pp.userapi.com\/c627827\/v627827887\/27437\/7mXaepGXxqU.jpg","value":5555},{"name":"Любовь К.","photo_url":"https:\/\/pp.userapi.com\/c630224\/v630224922\/1105d\/ulYY02x8hhQ.jpg","value":2650}],"all_time_leaderboard":[{"name":"Игорь Ф.","photo_url":"https:\/\/pp.userapi.com\/c846322\/v846322767\/3e4bc\/71VCZAE4_5w.jpg","value":14144},{"name":"Daniel D.","photo_url":"https:\/\/pp.userapi.com\/c639629\/v639629640\/51d58\/W7nwtzG7SdY.jpg","value":12361},{"name":"Андрей T.","photo_url":"https:\/\/pp.userapi.com\/c617928\/v617928116\/160b7\/W3L4W5vLGlA.jpg","value":12152},{"name":"Олег К.","photo_url":"https:\/\/sun1-3.userapi.com\/c840729\/v840729247\/2dadf\/Qq6MqCN3-WU.jpg","value":11735},{"name":"Алиса М.","photo_url":"https:\/\/sun1-3.userapi.com\/c840425\/v840425061\/71b63\/fMVwmUAk3YI.jpg","value":11111},{"name":"Наташа И.","photo_url":"https:\/\/pp.userapi.com\/c834202\/v834202662\/ebb9a\/MBBh3vDksrk.jpg","value":11111},{"name":"Григорий Б.","photo_url":"https:\/\/pp.userapi.com\/c845016\/v845016864\/45038\/Yd70BpCv7ho.jpg","value":11111},{"name":"Султан С.","photo_url":"https:\/\/pp.userapi.com\/c629114\/v629114063\/1e557\/a1jb7P_OIro.jpg","value":11111},{"name":"Винер Г.","photo_url":"https:\/\/pp.userapi.com\/c841638\/v841638780\/665f9\/8DIJdtrT9nA.jpg","value":11111}],"week_leaderboard":[{"name":"Елена Я.","photo_url":"https:\/\/sun1-3.userapi.com\/c840730\/v840730754\/84aeb\/T5dQSmVjYfs.jpg","value":8298},{"name":"Витюня П.","photo_url":"https:\/\/pp.userapi.com\/c637820\/v637820585\/5ff3f\/rVwxEij9WfQ.jpg","value":5862},{"name":"Сергей Е.","photo_url":"https:\/\/pp.userapi.com\/c639525\/v639525580\/1bbd9\/PG9t8dYuxmk.jpg","value":5834},{"name":"Екатерина Ш.","photo_url":"https:\/\/pp.userapi.com\/c845123\/v845123450\/55c17\/feC40FOM2Kw.jpg","value":5681},{"name":"Сергей С.","photo_url":"https:\/\/pp.userapi.com\/c837539\/v837539795\/20c2c\/LMEh8hS9N4A.jpg","value":5555},{"name":"Искандер З.","photo_url":"https:\/\/pp.userapi.com\/c629307\/v629307201\/8760\/TikD5LdOxZs.jpg","value":5555},{"name":"Марина С.","photo_url":"https:\/\/pp.userapi.com\/c824204\/v824204540\/13a0f7\/FefwzpV6yxY.jpg","value":5555},{"name":"Юрий Б.","photo_url":"https:\/\/pp.userapi.com\/c408422\/v408422535\/9c5a\/GjjGza0swDc.jpg","value":5555},{"name":"Виталий Б.","photo_url":"https:\/\/pp.userapi.com\/c627827\/v627827887\/27437\/7mXaepGXxqU.jpg","value":5555},{"name":"Любовь К.","photo_url":"https:\/\/pp.userapi.com\/c630224\/v630224922\/1105d\/ulYY02x8hhQ.jpg","value":2650}]}}}
